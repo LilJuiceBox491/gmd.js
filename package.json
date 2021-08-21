@@ -1,0 +1,21 @@
+{
+  "name": "gmd.js",
+  "version": "1.0.0",
+  "description": "An NPM module to dynamically surf the Geometry Dash API.",
+  "main": "index.js",
+  "homepage": "https://github.com/LilJuiceBox491/gmd.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilJuiceBox491/gmd.js"
+  },
+  "keywords": [
+    "gd",
+    "gmd",
+    "geometrydash"
+  ],
+  "author": "LilJuiceBox491",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}
