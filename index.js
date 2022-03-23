@@ -64,7 +64,7 @@ async function getCube(name) {
 
   const res = await got("https://gdbrowser.com/api/icon/" + name);
   return res;
-} w
+}
 
 async function getShip(name) {
   if (!typeof name == String) return 404;
